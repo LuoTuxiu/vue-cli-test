@@ -1,0 +1,3 @@
+[submodule "-f"]
+	path = src/components-test
+	url = https://github.com/LuoTuxiu/components-test.git
